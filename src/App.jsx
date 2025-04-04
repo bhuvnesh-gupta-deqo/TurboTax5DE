@@ -1,7 +1,8 @@
-import TurboTax5DEForm from "./components/TurboTax5DEForm";
+import FormTabs from "./components/Tabs/FormTabs";
+
 
 function App() {
-  return <TurboTax5DEForm />;
+  return <FormTabs/>;
 }
 
 export default App;
